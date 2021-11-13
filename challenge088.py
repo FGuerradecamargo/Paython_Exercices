@@ -1,5 +1,6 @@
 from random import randint
 from time import sleep
+
 print('=' * 40)
 print('{:^38}'.format('EURO MILLION'))
 print('=' * 40)
